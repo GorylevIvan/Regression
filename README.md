@@ -1,5 +1,5 @@
 # Regression
-!!!Свазана с работой Parsing а именно с файлами x_data.npy и y_data.npy!!!
+!!!Свазана с работой Parsing https://github.com/GorylevIvan/Parsing-and-analysis а именно с файлами x_data.npy и y_data.npy!!!
 ## Обучение модели
 
 Используется линейная модель **Ridge Regression**
